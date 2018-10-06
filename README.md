@@ -15,7 +15,8 @@ Interesting notes from this chart:
 + 3.4% of rounds end after the 12th round
 + Less than 1% of rounds make it to the 16th round
 
-
+How Often are Artifacts Drawn?
+------------
 ![alt text](https://raw.githubusercontent.com/rupaulsdatarace/incan-gold-snatch-the-artifact/master/incangoldmcartifact.png)
 
 Above is a chart of the percentage of rounds for each card count in which the artifact was drawn. As an example, 50% of rounds in which exactly 13 cards were drawn saw an artifact. 
