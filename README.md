@@ -1,4 +1,4 @@
-# Incan-Gold-Snatch-The-Artifact
+# Incan Gold:Snatch The Artifact
 This repository contains a MonteCarlo simulation of the press-your-luck board game, Incan Gold. Rules for Incan Gold can be found here: http://www.gvlibraries.org/sites/default/files/rules092906.pdf, and the BGG link is here: https://boardgamegeek.com/boardgame/15512/diamant
 
 Insights from 10 million rounds of Incan Gold:
