@@ -4,6 +4,8 @@ This repository contains a MonteCarlo simulation of the press-your-luck board ga
 Insights from 10 million rounds of Incan Gold:
 ========
 ![alt text](https://raw.githubusercontent.com/rupaulsdatarace/incan-gold-snatch-the-artifact/master/incangoldmontecarlo.png)
+
+
 This is a histogram of the number of rounds that ended at a certain card count. As there are always 15 treasure cards, at least 1 artifact card, and 5 different types of hazard cards in the deck, the maximum cards drawn per round is 21+(number of treasures). For this chart, I assumed 1 treasure in the deck. 
 
 Interesting notes from this chart: 
