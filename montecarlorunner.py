@@ -11,6 +11,7 @@ def round():
     while not cavein:
         currentcard = random.choice(deck)
         cardcount+=1
+        deck.remove(currentcard)
         if currentcard in hazards:
             if currentcard in hazardsdrawn:
                 cavein = True
